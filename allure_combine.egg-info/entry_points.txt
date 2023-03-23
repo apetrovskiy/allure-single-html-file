@@ -1,0 +1,3 @@
+[console_scripts]
+ac = allure_combine.combine:main
+allure-combine = allure_combine.combine:main
